@@ -1,0 +1,18 @@
+body{
+
+    background-color: rgba(213, 181, 181, 0.464);
+}
+
+.contaner{
+    width: 90%;
+    margin: auto;
+   
+}
+.titel{
+    border-bottom: 1px black solid;
+}
+.hed{
+    padding: 10px;
+    border-bottom: 1px black solid;
+ 
+}
